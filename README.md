@@ -1,3 +1,6 @@
+![image](https://github.com/Computational-Plant-Science/Image-Mosaicking-Tiling-Python-Toolkit/assets/133724174/412ad854-f76f-4c9b-93ea-61e7e0d85822) 
+**Fig 1.** Experimental Results: Creating Tiles and Reconstructing Using the Script 
+
 # Introduction:
 
 The image mosaicking and tiling technique is a method used to process large images by dividing them into smaller tiles, which are then individually processed and finally combined to reconstruct the original image. This technique is particularly useful for handling large datasets, such as satellite images, medical images, or high-resolution photographs, where processing the entire image at once may not be feasible due to memory or computational constraints.
@@ -34,10 +37,6 @@ Open the Python script in your preferred editor or IDE. Modify the parameters su
 _python mosaic_tile_script.py_
 
 **View the Results:** 
-
-![image](https://github.com/Computational-Plant-Science/Image-Mosaicking-Tiling-Python-Toolkit/assets/133724174/412ad854-f76f-4c9b-93ea-61e7e0d85822) 
-**Fig 1.** Experimental Results: Creating Tiles and Reconstructing Using the Script
-
 After the script finishes executing, you will see the tiled image displayed using Matplotlib. Additionally, the reconstructed image will be generated and displayed. You can adjust parameters and rerun the script as per your requirment. 
 
 # Author
