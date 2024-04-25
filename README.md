@@ -37,7 +37,7 @@ Open the Python script in your preferred editor or IDE. Modify the parameters su
 _python mosaic_tile_script.py_
 
 **View the Results:** 
-After the script finishes executing, you will see the tiled image displayed using Matplotlib. Additionally, the reconstructed image will be generated and displayed. You can adjust parameters and rerun the script as per your requirment. 
+After the script finishes executing, you will see the tiled image displayed using Matplotlib. Additionally, the reconstructed image will be generated and displayed (See results in Fig 1). You can adjust parameters and rerun the script as per your requirment. 
 
 # Author
 _Kabir Hossain (kabircnu@gmail.com)_
