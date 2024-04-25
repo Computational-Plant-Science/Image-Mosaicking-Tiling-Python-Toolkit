@@ -16,7 +16,7 @@ Overall, this script provides a simple yet effective method for dividing large i
 **Install Required Libraries:**
 Before running the code, ensure that you have the necessary libraries installed. You can install them using pip:
 
-_pip install numpy pillow matplotlib _
+_pip install numpy pillow matplotlib_
 
 **Clone the Repository:**
 Clone the repository containing the code from GitHub using the following command: 
