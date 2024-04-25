@@ -21,7 +21,7 @@ _pip install numpy pillow matplotlib _
 **Clone the Repository:**
 Clone the repository containing the code from GitHub using the following command: 
 
-_git clone https://github.com/your_username/your_repository.git _
+git clone https://github.com/your_username/your_repository.git 
 
 **Set Up Input Image:** 
 
@@ -33,5 +33,6 @@ Open the Python script in your preferred editor or IDE. Modify the parameters su
 
 _python mosaic_tile_script.py_
 
-View the Results:
+**View the Results:** 
+
 After the script finishes executing, you will see the tiled image displayed using Matplotlib. Additionally, the reconstructed image will be generated and displayed. You can adjust parameters and rerun the script to observe different results.
