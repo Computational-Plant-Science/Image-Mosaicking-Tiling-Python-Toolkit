@@ -35,4 +35,4 @@ _python mosaic_tile_script.py_
 
 **View the Results:** 
 
-After the script finishes executing, you will see the tiled image displayed using Matplotlib. Additionally, the reconstructed image will be generated and displayed. You can adjust parameters and rerun the script to observe different results.
+After the script finishes executing, you will see the tiled image displayed using Matplotlib. Additionally, the reconstructed image will be generated and displayed. You can adjust parameters and rerun the script as per your requirment.
