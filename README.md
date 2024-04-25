@@ -13,21 +13,25 @@ This Python script provides functions for both tiling an image into smaller tile
 Overall, this script provides a simple yet effective method for dividing large images into manageable tiles and reconstructing them afterward, facilitating easier processing and analysis of such images.
 
 # Running the Code:
-_Install Required Libraries:_
+**Install Required Libraries:**
 Before running the code, ensure that you have the necessary libraries installed. You can install them using pip:
-Copy code
-pip install numpy pillow matplotlib
-Clone the Repository:
-Clone the repository containing the code from GitHub using the following command:
-bash
-Copy code
-git clone https://github.com/your_username/your_repository.git
-Set Up Input Image:
-Place the image you want to process in the same directory as the script or specify its path in the code.
-Run the Script:
+
+_pip install numpy pillow matplotlib _
+
+**Clone the Repository:**
+Clone the repository containing the code from GitHub using the following command: 
+
+_git clone https://github.com/your_username/your_repository.git _
+
+**Set Up Input Image:** 
+
+Place the image you want to process in the same directory as the script or specify its path in the code. 
+
+**Run the Script:** 
+
 Open the Python script in your preferred editor or IDE. Modify the parameters such as image_path, tile_size, and overlap as needed. Then run the script.Example:
-bash
-Copy code
-python mosaic_tile_script.py
+
+_python mosaic_tile_script.py_
+
 View the Results:
 After the script finishes executing, you will see the tiled image displayed using Matplotlib. Additionally, the reconstructed image will be generated and displayed. You can adjust parameters and rerun the script to observe different results.
